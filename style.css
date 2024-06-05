@@ -43,7 +43,7 @@
 main h1 {
     text-align: center;
     text-shadow: h-offset v-offset blur color;
-    margin-bottom: 20px;
+    margin-bottom: 48px;
 }
 .container {
     display: flex;
@@ -117,7 +117,7 @@ footer {
     display: flex;
     flex-direction: row;
     align-items: center;
-
+    justify-content: center;
     gap: 40px;
     padding: 12px;
 }
