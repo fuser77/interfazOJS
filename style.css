@@ -43,7 +43,7 @@
 main h1 {
     text-align: center;
     text-shadow: h-offset v-offset blur color;
-    margin-bottom: 48px;
+    margin-bottom: 36px;
 }
 .container {
     display: flex;
